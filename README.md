@@ -1,6 +1,6 @@
 # YouTube Clone Project
 ## Project Overview
-This project is a simple YouTube homepage clone, created using HTML and CSS. It replicates the layout and design of the YouTube homepage, focusing on structure and styling without adding any backend functionality.
+This project is a simple YouTube homepage clone, created using HTML and CSS. It replicates the layout and design of the YouTube homepage, focusing on structure and styling.
 ## Features
 + Responsive design: The layout adjusts to various screen sizes.
 + Nav bar: Includes standard YouTube navigation options like Home, Explore, Subscriptions, Originals, YouTube Music, and Library.
